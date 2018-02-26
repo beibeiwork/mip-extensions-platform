@@ -9,7 +9,7 @@ mip-pc-ad 广告位组件
 所需脚本|https://mipcache.bdstatic.com/extensions/platform/v1/mip-pc-ad/mip-pc-ad.js
         
 
-## 示例
+## 示例用法
 
 ### 基本用法
 ```html
